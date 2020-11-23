@@ -31,7 +31,6 @@ The IR NS Requirements as pertains to STA are available at [INSPIRE IR NS - STA]
 
 [INSPIRE Network Services Technical Guidelines](https://inspire.ec.europa.eu/Technical-Guidelines2/Network-Services/41)
 
-
 # Good Practice
 
 In order to establish a new technology within INSPIRE, in addition to the alignment of requirements pertaining to the data specifications and networks services, a "Good Practice" should be established, in accordance with the following procedure:
@@ -45,6 +44,13 @@ In order to establish a new technology within INSPIRE, in addition to the alignm
 4. Opinion of the MIG to endorse, ask for clarification or reject the good practice 
 
 5. Feedback from users through the good practice repository
+
+## ELISE Workshop: SensorThings API brings Dynamic Data to INSPIRE
+
+On November 19th an ELISE Webinar was held on SensorThings API and INSPIRE, answering the questions of what is Dynamic Data, why is it a valuable enrichment of an SDI and what benefits does it provide?
+
+All presentations and recordings of the event are available at: [ELISE Workshop: SensorThings API brings Dynamic Data to INSPIRE](
+https://joinup.ec.europa.eu/collection/elise-european-location-interoperability-solutions-e-government/document/presentation-sensorthings-api-brings-dynamic-data-inspire)
 
 ## Participants
 * BRGM - Data sources: Water, maybe Biodiversity
